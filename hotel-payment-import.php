@@ -1,5 +1,13 @@
 <?php
 
+/*
+Hotel Payment Import script by Badi Jones
+
+Takes specially formatted files that contain info about commission payments and matches it with reservations in the system that are pending payment.
+
+Outputs files containing successfull matches as well as rows that couldn't be matched.
+
+*/
 
 $previousConfId = false;
 $consolArray = array();
