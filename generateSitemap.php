@@ -4,9 +4,9 @@
 
 Script by Badi Jones
 
-This is a script to create an XML sitemap.
+This is a script to create an XML sitemap that is uploaded for Google Search Console and for Google's web crawlers..
 
-It is 1 module from a custom CMS
+It is just one of many modules from a custom content management system that runs a large travel site
 
 */
 
