@@ -1,6 +1,14 @@
 <?php
 
+/*
 
+Script by Badi Jones
+
+This is a script to create an XML sitemap.
+
+It is 1 module from a custom CMS
+
+*/
 
 include "/inc/_globalIncludeV2.php";
 

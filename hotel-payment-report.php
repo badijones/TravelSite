@@ -1,6 +1,17 @@
 <?php
 
 
+/*
+
+Hotel payment report by Badi Jones
+
+This is one report that is part of a hotel payment reconciliation system.
+
+The report includes the number of reservations per hotel and whether or not the hotel has paid 10% commission.
+
+Gives % pending and % paid, as well as reasons why payments weren't made.
+
+*/
 
 //authenticate and connect
 include('../config.php');
